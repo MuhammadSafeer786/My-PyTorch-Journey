@@ -1,8 +1,8 @@
-Course's Github Link:
+Course Github Link:
 ```
 https://github.com/mrdbourke/pytorch-deep-learning
 ```
-Course's Youtube link:  
+Course Youtube link:  
 ```
 https://youtu.be/V_xro1bcAuA?si=ns5vw-gsjaZ3NDsd
 ```
