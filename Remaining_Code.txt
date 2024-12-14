@@ -1,1 +1,1 @@
-check out my CardioAI-Diagnosis repository for remaining code. I have decided to continue this course but with my own project.
+check out my "Multimodal AI for Myocardial Infarction (Heart Attack)" repository for remaining code. I have decided to continue this course but with my own project.
